@@ -48,7 +48,7 @@ function displayBagSummary() {
             <div class="css-xjhrni" 
             onclick="
               if(bagItems.length > 0) {
-                  window.location.href='./pages/orderCompletionPage.html'
+                  window.location.href='./Pages/orderCompletionPage.html'
                 }
                   ">
               PLACE ORDER
